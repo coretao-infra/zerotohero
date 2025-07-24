@@ -1,5 +1,7 @@
 ## 🔷 Project: `zerotohero` — Technical Upskilling Program
 
+![Zero to Hero Upskilling Logo](/assets/zerotohero-logo.png)
+
 ### 🎯 Overall Goals
 
 The purpose of the `zerotohero` project is to design and execute a structured, modular, and progressive upskilling journey for professionals in technical roles. The goals are:
