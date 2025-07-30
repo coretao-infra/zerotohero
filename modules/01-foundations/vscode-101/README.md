@@ -1,27 +1,13 @@
-## ✅ **VSCODE 101 - Introduction to Coding Tools**
+## From Zero To Hero: **S01 - VSCODE 101 - Introduction to Coding Tools**
 
-This foundational course is the **starting point** of the Zero to Hero program. It covers essential tools and workflows that will be used throughout the journey.
+This foundational course is the **starting point** of the `Zero to Hero` program. It covers essential tools and workflows that will be used throughout the journey.
 
-### 📘 What You’ll Learn:
+### Session Information
 
-* **VS Code Basics**: Installing, configuring, and navigating the editor.
-* **Git Essentials**: Initializing repositories, committing code, and basic collaboration via GitHub.
-* **Python Fundamentals**: Writing and running Python code using VS Code and Jupyter Notebooks.
-* **Mini Project (Hands-On)**:
-
-  * Build a **simple API** with Python.
-  * Create a **small web app** that consumes the API (using notebooks for demonstration).
-  * Learn core development workflows from editing to running and versioning your code.
-
-### 🧰 Prerequisites:
-
-* Basic computer literacy (file management, web browsing, installing software).
-* Curiosity and willingness to learn.
-
-### 🚀 Prep Resources:
-
-* [VS Code Introductory Videos (Official)](https://code.visualstudio.com/docs/getstarted/introvideos)
-* [VS Code for Beginners (YouTube)](https://www.youtube.com/watch?v=fnPhJHN0jTE)
-* [GitHub’s Hello World Guide](https://guides.github.com/activities/hello-world/)
-* [Python for Beginners (Microsoft Learn)](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
-* [Jupyter Notebook Beginner Guide (W3Schools)](https://www.w3schools.com/python/python_jupyter.asp)
+| Topic                       | Learning Objectives                                                                                                                                                                                                                                                                        | Resources                                                                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **VS Code Basics**          | - Set up and configure a VS Code environment. <br>- Install key extensions for DevOps, cloud, and scripting.<br>- Use Git integration to manage source control tasks.<br>- Run shell commands using the built-in terminal.<br>- Debug scripts using breakpoints and variable inspection.   | [Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)<br>[VS Code for Beginners](https://www.youtube.com/watch?v=fnPhJHN0jTE)                   |
+| **Git Essentials**          | - Initialize and configure Git in a local project.<br>- Track changes using add, commit, and status commands.<br>- Connect to remote repositories via HTTPS or SSH.<br>- Push, pull, and clone code from GitHub or similar.<br>- Resolve basic merge conflicts in version-controlled code. | [GitHub Hello World](https://guides.github.com/activities/hello-world/)                                                                                             |
+| **Python Fundamentals**     | - Writing Python scripts<br>- Running code in VS Code<br>- Using Jupyter Notebooks<br>- Debugging basics                                                                                                                                                                                   | [Python for Beginners](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)<br>[Jupyter Guide](https://www.w3schools.com/python/python_jupyter.asp) |
+| **Mini Project (Hands-On)** | - Build a simple API with Python<br>- Create a web app to consume the API (in notebooks)<br>- Practice end-to-end workflow: edit, run, version, share                                                                                                                                      |                                                                                                                                                                     |
+| **Prerequisites**           | - Basic computer literacy (file management, web browsing, installing software)<br>- Curiosity and willingness to learn                                                                                                                                                                     |                                                                                                                                                                     |
